@@ -1,0 +1,35 @@
+a.faculty-list {
+    color: #000;
+}
+
+a.faculty-list:hover {
+    color: #3b60c9;
+}
+
+img.img-circles {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    border: 2px solid #5481ff;
+}
+
+.flex-1 {
+    flex: 1;
+}
+
+head.detail-alumni {
+    border-bottom: 1px solid black;
+}
+
+.career-unorderlist li {
+    border-bottom: 1px solid #b4b4b4;
+    padding: 8px 0 8px 10px;
+}
+
+.career-unorderlist li a {
+    color: #000;
+}
+
+.career-unorderlist li a:hover {
+    color: #2f4da1;
+}
